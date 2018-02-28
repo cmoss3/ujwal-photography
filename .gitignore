@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+assets/css/
+assets/dist/css/
+assets/dist/js/
+assets/sass/ 
+!assets/sass/custom.scss
